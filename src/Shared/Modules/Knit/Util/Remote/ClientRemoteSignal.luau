@@ -1,0 +1,1 @@
+return require(game:GetService("ReplicatedStorage"):WaitForChild("Knit").Util.Remote[script.Name])

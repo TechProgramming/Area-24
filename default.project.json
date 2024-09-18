@@ -1,0 +1,30 @@
+{
+  "name": "Area 24",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$path": "src/Shared"
+    },
+    "ServerScriptService": {
+      "$path": "src/Server"
+    },
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "$path": "src/Client"
+      },
+      "$properties": {
+        "DevTouchCameraMovementMode": "Classic",
+        "UserEmotesEnabled": false,
+        "LoadCharacterAppearance": false,
+        "HealthDisplayDistance": 0,
+        "CameraMaxZoomDistance": 15,
+        "CharacterJumpPower": 40,
+        "DevComputerCameraMovementMode": "Classic",
+        "DevTouchMovementMode": "Thumbstick",
+        "EnableMouseLockOption": false,
+        "NameDisplayDistance": 0,
+        "DevComputerMovementMode": "KeyboardMouse"
+      }
+    }
+  }
+}

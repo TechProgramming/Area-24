@@ -1,0 +1,11 @@
+{
+  "properties": {
+    "Attributes": {
+      "Priority": 2,
+      "Debug_Ray": false,
+      "BlinkCooldown": 10,
+      "Disabled": false,
+      "BlinkDuration": 1
+    }
+  }
+}

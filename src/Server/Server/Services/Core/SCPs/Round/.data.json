@@ -1,0 +1,8 @@
+{
+  "properties": {
+    "Attributes": {
+      "RoundTimeLimit": 300,
+      "RoundInterval": 1200
+    }
+  }
+}

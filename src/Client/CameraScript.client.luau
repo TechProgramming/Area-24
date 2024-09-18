@@ -1,0 +1,1 @@
+-- dummy script to disable Roblox's PlayerModule

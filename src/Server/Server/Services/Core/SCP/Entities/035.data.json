@@ -1,0 +1,9 @@
+{
+  "properties": {
+    "Attributes": {
+      "Debug_Print": false,
+      "Debug_Pathfinding": false,
+      "Disabled": false
+    }
+  }
+}

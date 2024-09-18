@@ -1,0 +1,8 @@
+{
+  "properties": {
+    "Attributes": {
+      "MinZombies": 1,
+      "MaxZombies": 10
+    }
+  }
+}
